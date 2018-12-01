@@ -1,4 +1,4 @@
-# CamTool_2
+# CamTool 2
 
 This app allows to animate camera in Assetto Corsa.
 
